@@ -1,6 +1,6 @@
 # Course Goal
 
-![Design do Projeto](design.png)
+![Design do Projeto](Design.png)
 
 ## Resumo
 
