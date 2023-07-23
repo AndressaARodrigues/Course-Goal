@@ -13,13 +13,13 @@ Para utilizar o Controle de Metas localmente, siga os seguintes passos:
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
 
-2. Clone este repositório em sua máquina local usando o seguinte comando no terminal: git clone https://github.com/AndressaARodrigues/react-complete-guide-2.git
+2. Clone este repositório em sua máquina local usando o seguinte comando no terminal: `git clone https://github.com/AndressaARodrigues/react-complete-guide-2.git`
 
-3. Acesse o diretório do projeto: cd react-complete-guide-2
+3. Acesse o diretório do projeto: `cd react-complete-guide-2`
 
-4. Instale as dependências do projeto: npm install
+4. Instale as dependências do projeto: `npm install`
 
-5. Inicie o servidor de desenvolvimento: npm start
+5. Inicie o servidor de desenvolvimento: `npm start`
 
 6. O aplicativo estará disponível no navegador em http://localhost:3000.
 
@@ -27,11 +27,11 @@ Para utilizar o Controle de Metas localmente, siga os seguintes passos:
 
 O  Course Goal foi desenvolvido utilizando as seguintes tecnologias:
 
-- React: Uma biblioteca JavaScript para criar interfaces de usuário interativas.
+- `React`: Uma biblioteca JavaScript para criar interfaces de usuário interativas.
 
-- CSS: Para a estilização dos componentes e páginas.
+- `CSS`: Para a estilização dos componentes e páginas.
 
-- Javascript: Uma linguagem de programação amplamente utilizada que proporciona interatividade e dinamismo ao projeto. Com o JavaScript, podemos implementar lógica e funcionalidades avançadas para melhorar a experiência do usuário no Course Goal.
+- `Javascript`: Uma linguagem de programação amplamente utilizada que proporciona interatividade e dinamismo ao projeto. Com o JavaScript, podemos implementar lógica e funcionalidades avançadas para melhorar a experiência do usuário no Course Goal.
 
 
 
