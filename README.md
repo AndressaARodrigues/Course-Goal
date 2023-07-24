@@ -2,7 +2,7 @@
 
 ![Design do Projeto](Design.png)
 
-## Resumo
+## Sobre
 
 O Course Goal é uma aplicação simples e intuitiva que permite aos usuários definirem e acompanharem suas metas. Com esta ferramenta, você pode adicionar suas metas, e quando elas forem concluídas, basta clicar nelas para marcá-las como concluídas e automaticamente excluí-las da lista.
 Este projeto foi desenvolvido como parte do curso "React - The Complete Guide 2023 (incl. React Router & Redux)" oferecido na plataforma Udemy. 
